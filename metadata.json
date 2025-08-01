@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Mines",
+  "description": "A browser-based game inspired by the classic Minesweeper with a crypto casino betting twist. Players bet virtual currency, select the number of mines on a 5x5 grid, and try to find gems while avoiding mines to increase their payout multiplier.",
+  "requestFramePermissions": []
+}
